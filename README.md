@@ -26,7 +26,17 @@ Este projeto é dividido em dois componentes principais: o frontend e o backend.
 
 A parte frontend do projeto foi desenvolvida em React.js e é responsável por fornecer a interface do usuário. Alguns recursos e arquivos de destaque incluem:
 
+### Para Dispositivos com Tela de 576px
+
 <img src="frontend/src/assets/imgs/exemplos/Tela576px.png" alt="Tela Para Dispositivos com 576px" width="500" height="700">
+
+### Para Dispositivos com Tela de 768px
+
+<img src="frontend/src/assets/imgs/exemplos/Tela768px.png" alt="Tela Para Dispositivos com 768px" width="500" height="700">
+
+### Para Demais Telas
+
+<img src="frontend/src/assets/imgs/exemplos/DemaisTelas.png" alt="Demais Telas" width="500" height="700">
 
 ### Backend
 
