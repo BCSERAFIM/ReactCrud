@@ -24,7 +24,7 @@ Este projeto é dividido em dois componentes principais: o frontend e o backend.
 
 ### Frontend
 
-A parte frontend do projeto foi desenvolvida em React.js e é responsável por fornecer a interface do usuário. Alguns recursos e arquivos de destaque incluem:
+A parte frontend do projeto foi desenvolvida em React.js e é responsável por fornecer a interface do usuário. Alguns recursos de responsividade foram criados, segue telas abaixo:
 
 ### Para Dispositivos com Tela de 576px
 
