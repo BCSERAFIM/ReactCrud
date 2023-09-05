@@ -32,11 +32,11 @@ A parte frontend do projeto foi desenvolvida em React.js e é responsável por f
 
 ### Para Dispositivos com Tela de 768px
 
-<img src="frontend/src/assets/imgs/exemplos/Tela768px.png" alt="Tela Para Dispositivos com 768px" width="500" height="700">
+<img src="frontend/src/assets/imgs/exemplos/Tela768px.png" alt="Tela Para Dispositivos com 768px" width="700" height="700">
 
 ### Para Demais Telas
 
-<img src="frontend/src/assets/imgs/exemplos/DemaisTelas.png" alt="Demais Telas" width="500" height="700">
+<img src="frontend/src/assets/imgs/exemplos/DemaisTelas.png" alt="Demais Telas" width="900" height="700">
 
 ### Backend
 
