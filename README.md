@@ -1,6 +1,9 @@
 # ReactCrud
 Cadastro simples de usuários: Incluir, Listar, Alterar e Excluir
 
+[![Licença](https://img.shields.io/github/license/BCSERAFIM/ReactCrud)](https://github.com/BCSERAFIM/ReactCrud/blob/main/LICENSE)
+
+
 # Projeto de Frontend e Backend em React
 
 Este é um projeto de exemplo que consiste em uma aplicação frontend e backend desenvolvida em React e Node.js, respectivamente. O projeto foi criado para fins de demonstração e aprendizado.
