@@ -75,7 +75,7 @@ Para executar o projeto, siga estas etapas:
 
 # Autor
 Bruno Cesar Serafim
-[Linkedin](https://www.linkedin.com/in/bcserafim)
+[Linkedin](https://www.linkedin.com/in/bcserafim) - [Site Pessoal](http://bcserafim.infinityfreeapp.com/)
 
 
 **Este é um projeto de exemplo e não está destinado a ser usado em produção.**
