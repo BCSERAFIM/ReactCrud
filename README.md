@@ -73,6 +73,9 @@ Para executar o projeto, siga estas etapas:
 
 4. Acesse a aplicação no seu navegador em [http://localhost:3000](http://localhost:3000).
 
+# Autor
+Bruno Cesar Serafim
+[Linkedin](https://www.linkedin.com/in/bcserafim)
 
 
 **Este é um projeto de exemplo e não está destinado a ser usado em produção.**
